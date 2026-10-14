@@ -1,0 +1,12 @@
+Run timestamp: 2026-10-14T17:40:33.377210800+01:00[Atlantic/Canary]
+Operating system: Windows 11
+Machine architecture: amd64
+Processor information: not available through standard Java APIs
+Logical CPU count: 8
+Java version: 26.0.1
+Java VM: Java HotSpot(TM) 64-Bit Server VM
+Matrix sizes: [10, 30, 60, 100, 150]
+Warm-up runs per size: 1
+Measured repetitions per size: 5
+Timing: multiplication kernel only.
+Memory: estimated matrix-element storage, not peak process RAM.

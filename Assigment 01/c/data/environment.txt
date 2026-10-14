@@ -1,0 +1,12 @@
+Run timestamp: 2026-10-14 23:04:51
+Operating system: Windows
+Machine architecture: x86_64
+Processor information: add CPU model manually
+Logical CPU count: add manually if needed
+Language: C
+Compiler: add compiler name and version manually
+Matrix sizes: 10, 30, 60, 100, 150
+Warm-up runs per size: 1
+Measured repetitions per size: 5
+Timing: multiplication kernel only.
+Memory: estimated storage for three matrices; not peak process RAM.

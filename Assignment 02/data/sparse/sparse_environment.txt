@@ -1,0 +1,16 @@
+Run timestamp: 2026-10-25T13:39:03.254710+00:00
+Operating system: Windows-11-10.0.26300-SP0
+Machine architecture: AMD64
+Processor information: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+Logical CPU count: 8
+Python version: 3.13.12 (tags/v3.13.12:1cbe481, Feb  3 2026, 18:22:25) [MSC v.1944 64 bit (AMD64)]
+Matrix sizes: [10, 30, 60, 100, 150]
+Zero proportions: [0.9, 0.95, 0.99]
+Random seed: 7
+Warm-up runs per method and configuration: 1
+Measured repetitions per method and configuration: 5
+Storage: CSR (values, column indices, row pointers).
+Timing: multiplication only; dense-to-CSR conversion measured separately.
+Memory: estimated storage payload, excluding Python object overhead; not peak process RAM.
+Sparse timing excludes converting the CSR output back to dense for validation.
+Conversion time is measured once per size and sparsity configuration, not repeated.

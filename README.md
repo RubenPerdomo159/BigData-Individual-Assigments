@@ -1,6 +1,6 @@
-# BigData-Individual-Assigments
+# BigData-Individual-Assignments
 
-Repository containing the four individual empirical studies on matrix multiplication for the **Big Data** course at the *Universidad de Las Palmas de Gran Canaria (ULPGC)*[cite: 1]. 
+Repository containing the four individual empirical studies on matrix multiplication for the **Big Data** course at the *Universidad de Las Palmas de Gran Canaria (ULPGC)*. 
 
 ## Overview
 * **Stage 1:** Basic implementations in Python, Java, and C.

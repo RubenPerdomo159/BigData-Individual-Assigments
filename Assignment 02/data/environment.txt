@@ -1,11 +1,12 @@
-Run timestamp: 2026-10-14T16:02:45.476116+01:00
+Run timestamp: 2026-10-25T12:17:15.176352+00:00
 Operating system: Windows-11-10.0.26300-SP0
 Machine architecture: AMD64
 Processor information: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
 Logical CPU count: 8
 Python version: 3.13.12 (tags/v3.13.12:1cbe481, Feb  3 2026, 18:22:25) [MSC v.1944 64 bit (AMD64)]
 Matrix sizes: [10, 30, 60, 100, 150]
-Warm-up runs per size: 1
-Measured repetitions per size: 5
+Warm-up runs per method and size: 1
+Measured repetitions per method and size: 5
+Methods: baseline, reordered, blocked
 Timing: multiplication kernel only.
 Memory: estimated matrix-element storage, not peak process RAM.

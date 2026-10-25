@@ -1,4 +1,4 @@
-# ASSIGMENT 01 - Basic Matrix Multiplication in Different Languages
+# ASSIGNMENT 01 - Basic Matrix Multiplication in Different Languages
 
 ## Overview
 

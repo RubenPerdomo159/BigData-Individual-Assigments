@@ -1,0 +1,27 @@
+Run timestamp: 2026-11-14T12:59:59.282538+00:00
+Operating system: Windows-11-10.0.26300-SP0
+Machine architecture: AMD64
+Processor information: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+Logical CPU count: 8
+Python version: 3.13.12 (tags/v3.13.12:1cbe481, Feb  3 2026, 18:22:25) [MSC v.1944 64 bit (AMD64)]
+NumPy version: 2.4.4
+Numba version: 0.68.1
+Numba maximum threads: 8
+Dask version: 2026.8.0
+Distributed version: 2026.8.0
+Matrix sizes: [100, 200, 300, 400, 500]
+Thread counts: [1, 2, 4, 8]
+Worker counts: [1, 2, 4]
+Warm-up runs: 1
+Measured repetitions: 5
+Methods: sequential, parallel, distributed.
+Algorithm: triple loop (i-j-k).
+Parallelization: Numba prange over matrix rows.
+Distributed framework: Dask Distributed.
+Distributed partitioning: row blocks of matrix A.
+Distributed execution: local processes, one thread per worker.
+Numeric type: float64.
+Sequential and parallel timing: multiplication kernel only.
+Distributed timing: data distribution, task submission, execution, result gathering and reconstruction.
+Distributed cluster setup time: recorded separately.
+Memory: estimated logical storage of matrices A, B and C; not peak process RAM.
